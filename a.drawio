@@ -1,0 +1,208 @@
+<mxfile host="65bd71144e">
+    <diagram id="4N2jpDCLWOXk2-6lfgzM" name="第1頁">
+        <mxGraphModel dx="756" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="社區" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="11">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="70" y="550"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="18" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.596;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3" target="7">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="100" y="386"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="信件與包裹的收發任務社區發布報告包含住戶與委員" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="100" width="120" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="40" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" style="edgeStyle=none;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="6">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="250" y="183"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="22" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="5" target="8">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="400" y="305"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="認真簽收後，傳送或推撥簡訊給包裹所有人只有委員能編輯與刪除公告住戶最多可綁定2支手機APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="310" y="100" width="120" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="委員" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="260" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="330" y="375" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="7" value="只有委員能編輯與刪除公告擁有專屬的職位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="320" width="120" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="發布公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="260" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9" target="11">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="450" y="548"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="9" value="委員隨時新增、修改與刪除讓住戶隨時查看包裹與信件是否簽收" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="420" y="320" width="120" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="10" target="5">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="329.75" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" value="住戶&lt;span style=&quot;white-space: pre;&quot;&gt;&#9;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="460" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="手機綁定APP&lt;br&gt;針對公告進行文章回應" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="520" width="120" height="110" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="qDtMIg0sFBbyaqtRaSuj" name="第2頁">
+        <mxGraphModel dx="864" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-27" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="TbdZR4SrvwdqIpbPVXaT-1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="39.71428571428578" y="180" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-1" value="住戶綁定APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-26" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="TbdZR4SrvwdqIpbPVXaT-2">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="205.42857142857156" y="180" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-2" value="收發信件/包裹" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="175" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-25" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="TbdZR4SrvwdqIpbPVXaT-3">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="369.7142857142858" y="180" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-3" value="委員發布公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-24" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="TbdZR4SrvwdqIpbPVXaT-4">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="535.4285714285716" y="180" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-4" value="住戶對公告進行回應" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="505" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-5" value="委員對公告進行編輯或刪除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="30" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-19" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TbdZR4SrvwdqIpbPVXaT-6">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="180" y="386" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-28" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="TbdZR4SrvwdqIpbPVXaT-6">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="52.57142857142867" y="790" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="25" y="185" width="55" height="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-20" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TbdZR4SrvwdqIpbPVXaT-8">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="340" y="386" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-29" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="TbdZR4SrvwdqIpbPVXaT-8">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="215.42857142857156" y="790" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="190" y="185" width="50" height="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-21" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TbdZR4SrvwdqIpbPVXaT-9">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="510" y="386" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-30" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="TbdZR4SrvwdqIpbPVXaT-9">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="372.57142857142867" y="810" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="185" width="45" height="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-22" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TbdZR4SrvwdqIpbPVXaT-10">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="660" y="386" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-31" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="TbdZR4SrvwdqIpbPVXaT-10">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="540" y="790" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="185" width="40" height="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-23" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="TbdZR4SrvwdqIpbPVXaT-11">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="692" y="100" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-32" style="edgeStyle=none;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="1" source="TbdZR4SrvwdqIpbPVXaT-11">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="681" y="800" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="670" y="185" width="45" height="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-14" value="住戶手機綁定APP&lt;br&gt;並輸入住戶攳" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="305" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-15" value="信件或包裹送達時，&lt;br&gt;警衛進行查收&lt;br&gt;並確認住戶訊息&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="310" width="130" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-16" value="委員確認訊息後&lt;br&gt;向APP推發公告&lt;br&gt;或簡訊" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="400" y="310" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-17" value="住戶對公告&lt;br&gt;進行評論" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="330" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="TbdZR4SrvwdqIpbPVXaT-18" value="委員對公告進行&lt;br&gt;編輯或刪除" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="717" y="330" width="110" height="40" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
